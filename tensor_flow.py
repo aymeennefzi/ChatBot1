@@ -13,7 +13,7 @@ stemmer = StemmerFactory().create_stemmer()
 tf.compat.v1.disable_v2_behavior()
 tf.compat.v1.disable_eager_execution()
 
-
+# aa
 class TensorFlow(object):
 
     def __init__(self, intents):
