@@ -1,13 +1,13 @@
-import json
-import numpy
-import pickle
-import random
-import nltk
-from nltk.stem import WordNetLemmatizer
-import numpy as np
-import tensorflow
-
-from Sastrawi.Stemmer.StemmerFactory import StemmerFactory
+# import json
+# import numpy
+# import pickle
+# import random
+# import nltk
+# from nltk.stem import WordNetLemmatizer
+# import numpy as np
+# import tensorflow
+#
+# from Sastrawi.Stemmer.StemmerFactory import StemmerFactory
 from tensor_flow import TensorFlow
 from flask import Flask, request, jsonify
 from flask_cors import CORS
