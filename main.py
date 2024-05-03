@@ -6,7 +6,7 @@
 # from nltk.stem import WordNetLemmatizer
 # import numpy as np
 # import tensorflow
-#aa
+#aaa
 # from Sastrawi.Stemmer.StemmerFactory import StemmerFactory
 from tensor_flow import TensorFlow
 from flask import Flask, request, jsonify
